@@ -1,0 +1,137 @@
+body{
+    margin: 0px ;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 600px;
+    boder: 2px black solid;
+}
+section p{
+    text-align: justify;
+}
+.nav{
+    height: 10px;
+    margin-left: 70%
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 10px
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color: orange;
+}
+.top-banner{
+    margin: 0px 60px 60px 60px;
+}
+.about{
+    margin: 0px 60px 60px 60px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 15px;
+    background: linear-gradient(45deg, lightsalmon, Tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.box{
+    background: rgba(128, 128, 128, 0.137);  
+}
+.box-model{
+    width: 20%;
+    height: 60%;
+    margin: 3%;
+    margin-left: 85px;
+    margin-top: 1%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    float: left;
+}
+.box-model img{
+    padding-left: 10px;
+}
+
+#chat{
+    margin: 0px 60px 60px 60px;
+    height: 400px;
+    background-image: url("img/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+
+.half-chat{
+    margin-top: 170px;
+    float: left;
+    margin-left: 422px;
+}
+.left{
+    margin-left: 300px;
+    margin-top: 181px;
+}
+.half-chat p{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+}
+footer{
+    height: 150px;
+    margin: 0px 60px 60px 60px;
+    margin-bottom: 0%;
+}
+.text-foot{
+    text-align: center;
+}
+.foot-img{
+   float: left;
+   margin-left: 10px;
+}
+.size{
+    width: 20px;
+    height: 20px;
+}
+.center-icon{
+    margin-left: 46%;
+}
+.expart{
+    margin: 0px 60px 60px 60px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 400px;
+}
+.exp-half{
+    margin: 20px;
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    border-radius: 10px;
+    float: left;
+    font-size: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0px 20px 0px 30px;
+    margin-left: 120px;
+}
+.expDiv{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.expDiv h1{
+    margin-top: 0;
+    margin-left: 520px;
+}
